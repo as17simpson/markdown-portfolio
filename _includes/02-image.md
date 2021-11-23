@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Well done son!](https://tv.bt.com/images/neil-warnock-eager-for-im-a-celebrity-jungle-stint-136431624148002601-181207113037.jpg)
